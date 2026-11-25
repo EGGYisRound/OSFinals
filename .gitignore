@@ -1,0 +1,9 @@
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# keep the built JAR out of git history; attach it to a GitHub Release or SourceCode.zip instead
+# (remove the next line if your facilitator wants the JAR committed)
+dist/*.jar

@@ -1,0 +1,8 @@
+# Copy this file to "config.properties" and put it in the folder you run the JAR from.
+# Everything is optional; missing keys fall back to the defaults in AppConfig.java.
+group=Group 3 - Section A
+members=Juan Dela Cruz - FCFS - Leader|Maria Santos - Round Robin - Documentation Lead|Pedro Reyes - SSTF - Video Lead|Ana Lopez - SCAN - Testing Lead
+# CPU keys : FCFS, SJF, PRIORITY_NP, SRTF, PRIORITY_P, RR
+cpu=FCFS,RR
+# Disk keys: FCFS, SSTF, SCAN, CSCAN, LOOK, CLOOK
+disk=SSTF,SCAN
